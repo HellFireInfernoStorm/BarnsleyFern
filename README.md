@@ -1,6 +1,6 @@
 ## Barnsley Fern Image Generator
 
-![Barnsley Fern](4k-10m.png)
+![Barnsley Fern](./extras/4k-10m.png)
 
 Generate high quality Images of the [Barnsley Fern Fractal](https://en.wikipedia.org/wiki/Barnsley_fern).
 
